@@ -19,5 +19,5 @@ export function RepositoryList() {
         <RepositoryItem repository={repository} />
       </ul>
     </section>
-  )
+  );
 }
